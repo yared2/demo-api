@@ -6,3 +6,5 @@ Details added by feature A
 
 ## Section B
 Details added by feature B
+
+## Section C
