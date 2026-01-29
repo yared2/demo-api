@@ -9,6 +9,11 @@ Details added by feature B
 
 ## Section C
 
+
 ## Main Update
 Change added directly to main
+
+## Rebase Practice
+Learning how git rebase works
+
 
